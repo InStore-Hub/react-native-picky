@@ -1,6 +1,6 @@
 package com.reactnativepicky;
 
-import com.aigestudio.wheelpicker.WheelPicker;
+import dev.aige.wheelpicker.WheelPicker;
 import com.facebook.react.bridge.ReactContext;
 import com.facebook.react.uimanager.UIManagerModule;
 import com.facebook.react.uimanager.events.EventDispatcher;

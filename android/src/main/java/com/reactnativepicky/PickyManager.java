@@ -4,7 +4,7 @@ import android.graphics.Color;
 
 import androidx.annotation.NonNull;
 
-import com.aigestudio.wheelpicker.WheelPicker;
+import dev.aige.wheelpicker.WheelPicker;
 import com.facebook.react.bridge.ReadableArray;
 import com.facebook.react.bridge.ReadableMap;
 import com.facebook.react.bridge.ReadableType;
